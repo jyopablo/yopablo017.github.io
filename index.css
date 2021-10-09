@@ -10,3 +10,7 @@ body{
     text-align: right;
     float: right;
 }
+
+.box{
+    margin-top: 100px;
+}
