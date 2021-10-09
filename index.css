@@ -1,0 +1,12 @@
+body{
+    background-color:hsla(207, 58%, 43%, 0.6);
+}
+
+.izquierda{
+    text-align: left;
+    float: left;
+}
+.derecha{
+    text-align: right;
+    float: right;
+}
